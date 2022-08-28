@@ -1,0 +1,16 @@
+1. Write tests (start at singleimage)
+2. Get React speaking to nestJS (ben will help tomorrow)
+4. Find a linter
+5. Move the call to NASA to nestJS
+6. Get the cache working
+7. Dockerize it
+    - 2 containers, one for front-end and one for backend
+        - backend will be easier to dockerize - start with that one
+        - frontend, use an nginx docker image
+
+
+8. Write a CICD pipeline
+    - run tests
+    - (optional) publish docker containers
+    - (optional) deploy it somewhere
+

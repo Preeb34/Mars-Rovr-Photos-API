@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../nasa-mars-image-api-nest-js"
+		}
+	],
+	"settings": {}
+}
